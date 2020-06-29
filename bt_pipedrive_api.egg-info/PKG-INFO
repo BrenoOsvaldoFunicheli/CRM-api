@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: bt-pipedrive-api
+Version: 0.1
+Summary: Simple interface for communication with Pipedrive
+Home-page: https://github.com/GearPlug/pipedrive-python.git
+Author: Bluetrade Invest
+Author-email: osvaldobreno99@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
